@@ -1,0 +1,2 @@
+# Local Bird
+ To classify bird species is quite a challenging task due to complex interdependence on various factors. There have been numerous attempts at perfecting classification. The aim of our work is to classify bird species from image data with a computer vision classification system. In this paper, we put forward a MobileNet model, which gives an amazing accuracy of up to 100%. This is the first work relating to local bird species classification. The proposed model explores a systematic approach to classification. The outcomes prove the efficiency of the model.
